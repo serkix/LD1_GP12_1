@@ -8,8 +8,8 @@ public class Tester
 	public static void main(String[] args) {
 		SortableList ToSort = new SortableList(10, 100);
 		ToSort.printList();
-		bubble _bubl = new bubble();
-		_bubl.sort(ToSort);
+		bubble bubl = new bubble();
+		bubl.sort(ToSort);
 		ToSort.printList();
 	}
 

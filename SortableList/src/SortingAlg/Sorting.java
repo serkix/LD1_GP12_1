@@ -17,7 +17,7 @@ abstract public class Sorting {
 	 * @param times how many times you need to sort
 	 * @param len length of sortable list
 	 * @param range range of sortable numbers
-	 * @return retun true if array is being sorted or false otherwise
+	 * @return return true if array is sorted or false otherwise
 	 */
 	public boolean test(int times,int len, int range)
 	{

@@ -1,14 +1,14 @@
 /**
  * Created by Andrej on 02.02.2017.
  */
-package sortingLib;
+package SortingLib;
 public class TData
 {
     private long data;
 
     /**
      * Constructs TData with newData value
-     * @param newData
+     * @param newData new data which should be appended
      */
     TData(long newData)
     {
